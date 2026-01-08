@@ -14,7 +14,7 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin.
 
 1.  Depoyu klonlayın:
     ```bash
-    git clone https://github.com/kullanici-adiniz/sifre-uretici.git
+    git clone https://github.com/mertdns/sifre-uretici.git
     ```
 2.  Proje dizinine gidin:
     ```bash
@@ -36,15 +36,3 @@ npm start
 ## Build (Derleme)
 
 Projeyi derlemek için `ng build` komutunu kullanın. Derlenmiş dosyalar `dist/` dizininde saklanacaktır.
-
-```bash
-npm run build
-```
-
-## Testleri Çalıştırma
-
-Uçtan uca testleri çalıştırmak için `ng test` komutunu çalıştırın.
-
-```bash
-npm test
-```
