@@ -1,0 +1,10 @@
+<section>
+    <h1>Şifre Oluştur</h1>
+    <div class="area">
+        <input (input)="Change($event.target.value)" type="text" placeholder="Karakter Uzunluğu Gir">
+        <br>
+        <button (click)="Create()" class="button" type="button">Şifre Oluştur</button>
+    </div>
+    <div class="result">{{result}}</div>
+    <button (click)="Copy()" class="button" type="button">Kopyala</button>
+</section>

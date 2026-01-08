@@ -1,0 +1,53 @@
+section {
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 40px 40px;
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    row-gap: 20px;
+}
+
+section h1 {
+    color: rgb(0, 149, 255);
+}
+
+section div input{
+    outline: 1px solid white;
+    border: none;
+    color: white;
+    border-radius: 10px;
+    padding: 5px 20px;
+    background-color: transparent;
+    margin-bottom: 20px;
+}
+
+section div input::placeholder{
+    color: white;
+}
+
+.result{
+    color: green;
+    font-weight: bold;
+}
+
+.button{
+    background-color: darkred;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size-adjust: 20px;
+    border: none;
+    outline: none;
+    transition: .5s all;
+}
+
+.button:hover{
+    background-color: red;
+}
