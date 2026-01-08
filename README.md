@@ -14,7 +14,7 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin.
 
 1.  Depoyu klonlayın:
     ```bash
-    git clone https://github.com/mertdns/sifre-uretici.git
+    git clone https://github.com/mertdns/sifre-uretici.git](https://github.com/mertdns/sifreUretici_anglular
     ```
 2.  Proje dizinine gidin:
     ```bash
