@@ -14,11 +14,11 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin.
 
 1.  Depoyu klonlayın:
     ```bash
-    git clone https://github.com/mertdns/sifre-uretici.git](https://github.com/mertdns/sifreUretici_anglular
+    git clone https://github.com/mertdns/sifreUretici_anglular
     ```
 2.  Proje dizinine gidin:
     ```bash
-    cd sifre-uretici
+    cd sifreUretici_anglular
     ```
 3.  Gerekli NPM paketlerini kurun:
     ```bash
